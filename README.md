@@ -8,7 +8,7 @@ avait été passé en route plutôt que sur une chaise, jusqu'où aurait-il men�
 Ce projet y répond à partir de données ouvertes, en comparant cinq modes de transport au départ de l'Île-de-France :
 la marche, le vélo, la voiture, le train et l'avion.
 
-**[Lire la storymap](LIEN_VERS_LA_STORYMAP)** · [Méthode détaillée](docs/methode.md) · [Notebook de traitement](notebooks/traitement.ipynb)
+**[Lire la storymap](https://arcg.is/i1bSG1)** · [Méthode détaillée](docs/methode.md) · [Notebook de traitement](notebooks/traitement.ipynb)
 
 ![Isochrones voiture depuis la gare du Nord](docs/img/voiture_isochrones.jpg)
 
