@@ -19,7 +19,7 @@ la marche, le vélo, la voiture, le train et l'avion.
 | Mode | Ce que permettent 3h30 à bord | Forme spatiale |
 |---|---|---|
 | Marche | 822 km², environ 16 km autour de la gare du Nord, sans quitter l'Île-de-France | une tache régulière |
-| Vélo | 9 505 km² ; 191 communes de l'Oise, dont Creil, Senlis et Chantilly | une tache régulière |
+| Vélo | 9 505 km² ; 3 départements hors Île-de-France (Oise, Eure, Eure-et-Loire) | une tache régulière |
 | Voiture | 192 809 km² ; Lille en 2h16, Bruxelles en 3h14, Luxembourg | une tache étirée vers le nord-est |
 | Train | 312 villes en trajet direct, dont 15 à l'étranger ; Marseille en 3h03, Brest en 3h26 | une étoile qui suit les lignes à grande vitesse |
 | Avion | 165 destinations, des îles Britanniques à la mer Noire ; Athènes en 3h10 | un archipel dispersé |
