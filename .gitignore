@@ -1,0 +1,21 @@
+# Données sources volumineuses (voir data/README.md)
+data/gtfs_sncf/
+data/*.zip
+data/*.7z
+data/ADMIN-EXPRESS*
+data/CNTR_RG_*.geojson
+data/airports.csv
+
+# Résultats de travail régénérables
+resultats/*.gpkg
+
+# Environnement et secrets
+.env
+*.env
+
+# Jupyter, Python, éditeurs
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+desktop.ini
+Thumbs.db
